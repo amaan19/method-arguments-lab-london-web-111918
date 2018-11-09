@@ -1,5 +1,5 @@
 def introduction (name)
-  "Hi #{name}"
+  "Hi, my name is #{name}"
 end
 
 def introduction with language (name, language)
