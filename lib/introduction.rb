@@ -3,5 +3,5 @@ def introduction (name)
 end
 
 def introduction with language (name, language)
-  "Hi #{name}. What #{language} do you speak?"
+  "Hi, my name is #{name} and I am learning to program in #{language}."
 end
